@@ -1,6 +1,6 @@
-## Stay Safe Online – Actionable Tips
+# Stay Safe Online – Actionable Tips
 
-# General Safety Tips
+## General Safety Tips
 
 - Turn on 2FA for your Gmail, Instagram, and college portals right now
 - Set your Instagram/WhatsApp privacy to “Only Contacts” or “Private”
@@ -12,7 +12,7 @@
 - Update your phone and apps regularly to fix security issues
 
 
-# UPI / Financial Safety
+## UPI / Financial Safety
 - Never share your UPI PIN or OTP, even if someone claims to be from the bank
 - Before sending money, match the receiver’s name shown on the app
 - Remember: Receiving money does NOT require PIN → if asked, it’s a scam
@@ -21,7 +21,7 @@
 
 
 
-# What to do if something goes wrong
+## What to do if something goes wrong
 - Immediately report at cybercrime.gov.in
 - Call 1930 within minutes for financial fraud recovery
 - Inform your bank quickly if any suspicious transaction happens
