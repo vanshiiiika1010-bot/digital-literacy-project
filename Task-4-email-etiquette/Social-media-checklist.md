@@ -1,7 +1,7 @@
-## Social Media Do’s and Don’ts Checklist
+# Social Media Do’s and Don’ts Checklist
 
 
-# Do’s
+## Do’s
 
 - Think before posting anything online
 - Use privacy settings to protect your information
@@ -10,7 +10,7 @@
 - Maintain a professional profile for academic/career use
 
 
-# Don’ts
+## Don’ts
 
 - Don’t share personal details like passwords or OTPs
 - Don’t post offensive or inappropriate content
